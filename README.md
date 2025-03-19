@@ -1,2 +1,2 @@
-# TERM_GAME
-Reproduzindo o jogo TERMO (term) em python.
+# Termo/Wordle Game
+Reproduzindo o jogo TERMO (Wordle) em python.
